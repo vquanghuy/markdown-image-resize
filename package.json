@@ -1,0 +1,7 @@
+{
+  "name": "markdown-image-resize",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Vu Quang Huy <vquanghuy@gmail.com>",
+  "license": "MIT"
+}
